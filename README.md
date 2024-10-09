@@ -1,8 +1,9 @@
-<br>
+
 How to add your project to this repository?
 <br>
+<br>
 1. Fork the repository into your account<br>
-2. Clone the repository into your locale<br>
+2. Clone the repository into your local system<br>
 
 ```sh
 git clone https://github.com/{your_id}/Trainees-24
@@ -20,10 +21,11 @@ git branch {branch_name}
 git checkout {branch_name}
 ``` 
 <br>
-Completed the task and push the files
+5. Complete the task and push the files
+
 ```sh
 git push origin {branch_name}
-``` 
+```
 <br>
 8. Go to Github and create a Pull Request for the same
 <br><br>
