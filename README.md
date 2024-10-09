@@ -1,11 +1,11 @@
-<br><br>
+<br>
 How to add your project to this repository?
 <br>
 1. Fork the repository into your account<br>
 2. Clone the repository into your locale<br>
 
 ```sh
-git clone https://github.com/{your_id}/Trainee-24
+git clone https://github.com/{your_id}/Trainees-24
 ```
 <br>
 3. Create a branch using 
