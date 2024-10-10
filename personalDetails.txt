@@ -1,0 +1,4 @@
+Name = "Yatharth Shukhla"
+studentNo = 23164020
+Branch = AIML
+Domain = machine learning 
